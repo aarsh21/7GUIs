@@ -1,5 +1,8 @@
 <script lang="ts">
-	import Counter from '$lib/components/counter.svelte';
+	import Converter from '$lib/components/converter.svelte';
+	// import Counter from '$lib/components/counter.svelte';
 </script>
 
-<Counter />
+<!-- <Counter /> -->
+
+<Converter />
